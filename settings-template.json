@@ -1,0 +1,23 @@
+{
+  "database": {
+    "host": "",
+    "database": "",
+    "username": "",
+    "password": ""
+  },
+  "server": {
+    "http": "4000",
+    "https": "4001",
+    "secure": false,
+    "certificates": {
+      "key_path": "",
+      "cert_path": ""
+    }
+  },
+  "jwt": {
+    "key": ""
+  },
+  "files": {
+    "default_path": "/static"
+  }
+}

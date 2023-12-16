@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#jetbrains
+.idea
+
+#pnpm
+pnpm-lock.yaml
+
+settings.json
